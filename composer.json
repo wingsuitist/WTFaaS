@@ -1,0 +1,12 @@
+{
+    "name": "wingsuitist/wtfaas",
+    "description": "WTF as a Service (WTFaaS) With The Force as a Service",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Jonas Felix",
+            "email": "jonas.felix@felixideas.com"
+        }
+    ],
+    "require": {}
+}
